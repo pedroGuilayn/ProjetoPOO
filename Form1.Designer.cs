@@ -36,6 +36,7 @@
             // 
             // progressBar1
             // 
+            this.progressBar1.Cursor = System.Windows.Forms.Cursors.No;
             this.progressBar1.Location = new System.Drawing.Point(25, 563);
             this.progressBar1.Name = "progressBar1";
             this.progressBar1.Size = new System.Drawing.Size(862, 32);
